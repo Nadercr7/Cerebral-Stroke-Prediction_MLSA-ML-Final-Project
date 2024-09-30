@@ -38,3 +38,5 @@ This code performs stroke prediction using logistic regression and K-nearest nei
    - The main function creates an instance of the `StrokePredictionGUI` class and starts the GUI application using `tkinter`.
 
 Overall, this code demonstrates how to build a stroke prediction system using logistic regression and KNN classifiers and provides a simple GUI for user interaction.
+
+![GitHub Image](/images/cerebal stroke)
